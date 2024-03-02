@@ -4,6 +4,8 @@ public class Principal
 {
     public static void main(string[] args)
     {
+
+        // OBS -> Erro newpointerexception == tentou pegar algum dado do método construtor que é nulo
         Empresa emp = new Empresa();
         // Classe predefinida para ler um dado do usuário
         Scanner read = new Scanner(System.in);

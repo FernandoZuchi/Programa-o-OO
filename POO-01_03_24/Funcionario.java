@@ -46,4 +46,11 @@ public class Funcionario
     }
     
     //Metodos de Acesso
+
+    public void setSalario(double newsalario){
+        salario = newsalario;
+    }
+    public double getSalario(){
+        return funcão;
+    }
 }
