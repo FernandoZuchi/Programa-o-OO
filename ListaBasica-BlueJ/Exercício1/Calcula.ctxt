@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calcula
+comment1.params=
+comment1.target=Calcula()
+comment2.params=x1\ x2\ y1\ y2
+comment2.target=Calcula(double,\ double,\ double,\ double)
+comment3.params=x1\ x2\ y1\ y2
+comment3.target=double\ Distancia(double,\ double,\ double,\ double)
+numComments=4
