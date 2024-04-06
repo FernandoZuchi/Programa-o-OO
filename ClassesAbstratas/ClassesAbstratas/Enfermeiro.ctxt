@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enfermeiro
+comment1.params=
+comment1.target=Enfermeiro()
+comment2.params=nome\ plantoes\ valorPlantao\ salarioFixo
+comment2.target=Enfermeiro(java.lang.String,\ int,\ double,\ double)
+comment3.params=
+comment3.target=double\ salario()
+comment4.params=
+comment4.target=double\ insalubridade()
+comment5.params=
+comment5.target=double\ contribuicaoSindical()
+numComments=6

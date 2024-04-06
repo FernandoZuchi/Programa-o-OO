@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Quimico
+comment1.params=nome\ salario
+comment1.target=Quimico(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ salario()
+comment3.params=
+comment3.target=double\ insalubridade()
+numComments=4

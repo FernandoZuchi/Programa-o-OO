@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Taxista
+comment1.params=
+comment1.target=Taxista()
+comment2.params=nome\ kmRodado\ valorKm
+comment2.target=Taxista(java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=double\ salario()
+numComments=4
