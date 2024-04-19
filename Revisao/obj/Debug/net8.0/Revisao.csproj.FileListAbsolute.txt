@@ -1,0 +1,14 @@
+D:\Analise OO\Revisao\bin\Debug\net8.0\Revisao.exe
+D:\Analise OO\Revisao\bin\Debug\net8.0\Revisao.deps.json
+D:\Analise OO\Revisao\bin\Debug\net8.0\Revisao.runtimeconfig.json
+D:\Analise OO\Revisao\bin\Debug\net8.0\Revisao.dll
+D:\Analise OO\Revisao\bin\Debug\net8.0\Revisao.pdb
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfoInputs.cache
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.AssemblyInfo.cs
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.dll
+D:\Analise OO\Revisao\obj\Debug\net8.0\refint\Revisao.dll
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.pdb
+D:\Analise OO\Revisao\obj\Debug\net8.0\Revisao.genruntimeconfig.cache
+D:\Analise OO\Revisao\obj\Debug\net8.0\ref\Revisao.dll
