@@ -19,13 +19,18 @@ public class Turma {
 
     public Aluno representante() {
         Aluno maisVotado = alunos.get(0);
-        for(Aluno a : alunos)
+        for(Aluno aluno : alunos)
         {
-            if(a.getVotos() > maisVotado.getVotos())
+            if(aluno.getVotos() > maisVotado.getVotos())
             {
-                maisVotado = a;
+                maisVotado = aluno;
             }
         }
-        return null;
+        return maisVotado;
+    }
+    
+    public void setDataVotacao(String dataVotacao)
+    {
+        this.dataVotacao = dataVotacao;
     }
 }

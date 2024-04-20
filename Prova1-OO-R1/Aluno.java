@@ -9,19 +9,14 @@ public class Aluno
         votos = 0;
     }
     
-    public void setNome(String nome)
-    {
-        this.nome = nome;
-    }
-    
     public String getNome()
     {
         return nome;
     }
     
-    public void getVotos(int votos)
+    public void setNome()
     {
-        this.votos = votos;
+        this.nome = nome;
     }
     
     public int getVotos()
@@ -29,8 +24,8 @@ public class Aluno
         return votos;
     }
     
-    public void fuiVotado()
+    public int votado()
     {
-        votos++;
+        return votos++;
     }
 }

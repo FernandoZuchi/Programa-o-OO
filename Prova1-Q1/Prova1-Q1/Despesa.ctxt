@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Despesa
+comment1.params=
+comment1.target=Despesa()
+comment2.params=descricao
+comment2.target=void\ setDescricao(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDescricao()
+comment4.params=
+comment4.target=int\ getMesAno()
+comment5.params=mesAno
+comment5.target=void\ setMesAno(int)
+comment6.params=
+comment6.target=double\ getValor()
+comment7.params=valor
+comment7.target=void\ setValor(double)
+numComments=8

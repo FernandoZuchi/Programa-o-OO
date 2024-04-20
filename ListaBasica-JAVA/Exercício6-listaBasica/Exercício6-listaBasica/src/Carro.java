@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Carro {
     private String modelo;
     private double precoBase;
@@ -16,12 +18,25 @@ public class Carro {
 
     public void adicionarOpcionais(boolean ar, boolean cambioAutomatico, boolean alarme, boolean pinturaEspecial, boolean tetoSolar, boolean kitMultimidia)
     {
-        this.ar = ar;
-        this.cambioAutomatico = cambioAutomatico;
-        this.alarme = alarme;
-        this.pinturaEspecial = pinturaEspecial;
-        this.tetoSolar = tetoSolar;
-        this.kitMultimidia = kitMultimidia;
+        Scanner le = new Scanner(System.in);
+
+        System.out.println("Deseja adicionar Ar? (true/false)");
+        ar = le.nextBoolean();
+
+        System.out.println("Deseja adicionar Câmbio automático? (true/false)");
+        cambioAutomatico = le.nextBoolean();
+
+        System.out.println("Deseja adicionar Alarme? (true/false)");
+        alarme = le.nextBoolean();
+
+        System.out.println("Deseja adicionar Pintura especial? (true/false)");
+        pinturaEspecial = le.nextBoolean();
+
+        System.out.println("Deseja adicionar Teto solar? (true/false)");
+        tetoSolar = le.nextBoolean();
+
+        System.out.println("Deseja adicionar Kit multimídia? (true/false)");
+        kitMultimidia = le.nextBoolean();
     }
 
     public double calculaPrecoFinal()
